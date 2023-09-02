@@ -4,3 +4,7 @@ challenges faced:
 1)to make every components responsive.
 2)Due to modal , i was not able to place the trophy image on top of Congratulations!
 3)creating the Setup Quiz page as it was not in the document but on seeing the api website i thought it would be a good addition
+
+steps to run the project
+cd quizapp
+npm start
